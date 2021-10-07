@@ -2,14 +2,22 @@
  Ola mundo, eu sou o Yvens 👋 
 </p>
 
-<div align="center">
+<p align="left"> 
+<h3> Sobre mim </h3>
+Me chamo João Pedro, sou <strong>desenvolvedor back-end</strong> e estou sempre em busca de novos conhecimentos.<br>
+Estudo Sistemas de informação pela Universidade Cândido Mendes, onde me encontro no 2° período.<br>
+Trabalho atualmente como suporte técnico de TI, mas estou buscando novas oportunidades na área de desenvolvimento.
+</p>
+
+<div align="right">
   <a href="https://github.com/YvensSquinca">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=YvensSquinca&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="240em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YvensSquinca&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img src="http://clubedosgeeks.com.br/wp-content/uploads/2016/01/dormrm.gif" min-width="450px" max-width="450px" width="450px" align="right" alt="Logo inicio">
 </div>
 
+
+
 <div align="center"><br>
-  <img align="center" alt="Rafa-Python" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <code><img align="center" alt="Rafa-Python" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>
   <img align="center" alt="YS-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
