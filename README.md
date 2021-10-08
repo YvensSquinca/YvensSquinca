@@ -70,6 +70,5 @@
  <img align="center" alt="BOOTSTRAP" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/bootstrap/bootstrap-plain.svg"> 
  <img align="center" alt="ANGULAR" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/angularjs/angularjs-original.svg">  
  <img align="center" alt="CSHARP" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/csharp/csharp-original.svg"> 
- <img align="center" alt="DOTNET" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/dot-net/dot-net-original.svg">
  
 </div>
