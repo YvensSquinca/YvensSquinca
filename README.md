@@ -46,7 +46,7 @@
  
 <p> 
  Obrigado por visitar meu GITHUB. Segue minhas redes sociais para contato.<br>
- Se voce curte um GAME segue na Twitch, sempre acontece uma Jogatina por lá.
+ Se voce curte um GAME da um FolloW na Twitch, sempre acontece uma Jogatina por lá.
 </p> 
 
 <a href="https://www.instagram.com/yvenssquinca" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
