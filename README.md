@@ -8,7 +8,7 @@
 
 <div align=center>
  <img src="http://clubedosgeeks.com.br/wp-content/uploads/2016/01/dormrm.gif" min-width="380px" max-width="380px" width="380px" alt="Logo inicio" style="margin-right: 200px"> 
- <img width="450px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YvensSquinca&layout=compact&langs_count=7&theme=tokyonight"/> 
+ <img width="390px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YvensSquinca&layout=compact&langs_count=7&theme=tokyonight"/> 
 </div> 
 
 <div align=center>
